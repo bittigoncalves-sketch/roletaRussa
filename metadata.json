@@ -1,0 +1,6 @@
+{
+  "name": "Roleta Quiz Master",
+  "description": "Gire a roleta interativa, responda a perguntas de múltipla escolha, escolha e escritas, e gerencie o banco de perguntas, usuários e histórico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
